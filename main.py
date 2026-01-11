@@ -25,3 +25,5 @@ for lbl in lbls:
         print("=" * 50)
     except:
         continue
+
+input()

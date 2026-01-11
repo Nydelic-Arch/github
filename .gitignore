@@ -20,6 +20,7 @@ pip-wheel-metadata/
 # Distribution / packaging
 build/
 dist/
+*.spec
 *.egg-info/
 .eggs/
 
